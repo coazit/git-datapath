@@ -1,0 +1,3 @@
+#Creación de llave SSH
+
+ssh-keygen -t rsa -b 4096 -C "coazit@gmail.com"
